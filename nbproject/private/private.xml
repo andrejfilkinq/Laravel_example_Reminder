@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/Reminder/public/TextTelegram.txt</file>
+            <file>file:/var/www/Reminder/.htaccess</file>
+            <file>file:/var/www/Reminder/.env</file>
+            <file>file:/var/www/Reminder/app/library/FindTextInFile.php</file>
+            <file>file:/var/www/Reminder/app/Http/Controllers/TestTelegramController.php</file>
+            <file>file:/var/www/Reminder/routes/web.php</file>
+            <file>file:/var/www/Reminder/app/library/TelegramStarter.php</file>
+        </group>
+    </open-files>
+</project-private>
